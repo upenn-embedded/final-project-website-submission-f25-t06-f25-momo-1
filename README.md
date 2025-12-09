@@ -1,7 +1,7 @@
 ### Links
 
-- **GitHub Repository:** https://github.com/upenn-embedded/final-project-website-submission-f25-t06-f25-momo-1.git
-- **GitHub Pages Website:** https://upenn-embedded.github.io/final-project-website-submission-f25-t06-f25-momo-1/
+- [GitHub Repository:](https://github.com/upenn-embedded/final-project-website-submission-f25-t06-f25-momo-1.git) https://github.com/upenn-embedded/final-project-website-submission-f25-t06-f25-momo-1.git
+- [GitHub Pages Website:](https://upenn-embedded.github.io/final-project-website-submission-f25-t06-f25-momo-1/) https://upenn-embedded.github.io/final-project-website-submission-f25-t06-f25-momo-1/
 
 ## Final Project Report
 
