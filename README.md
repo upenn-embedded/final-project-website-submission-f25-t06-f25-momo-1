@@ -1,5 +1,10 @@
-GitHub Repository URL: https://github.com/upenn-embedded/final-project-website-submission-f25-t06-f25-momo-1.git
-GitHub Pages Website URL: https://upenn-embedded.github.io/final-project-website-submission-f25-t06-f25-momo-1/
+### Links
+- **GitHub Repository:**  
+  https://github.com/upenn-embedded/final-project-website-submission-f25-t06-f25-momo-1.git  
+
+- **GitHub Pages Website:**  
+  https://upenn-embedded.github.io/final-project-website-submission-f25-t06-f25-momo-1/
+
 ## Final Project Report
 
 ### 1. Video
