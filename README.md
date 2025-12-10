@@ -7,11 +7,11 @@
 
 ### 1. Video
 
-<iframe src="https://drive.google.com/file/d/1Qw_lwsKCQLMO9i5y78lkQEAi8CrZNoC1/preview"
+<iframe src= “https://drive.google.com/file/d/13_xYOcfeGA3VXRt4HAyZus1sqLD7OBYS/view?usp=drivesdk”
         width="800" height="450" allow="autoplay"></iframe>
 
 If the video does not load, click here:
-https://drive.google.com/file/d/1Qw_lwsKCQLMO9i5y78lkQEAi8CrZNoC1/view?usp=sharing
+https://drive.google.com/file/d/13_xYOcfeGA3VXRt4HAyZus1sqLD7OBYS/view?usp=drivesdk
 
 ### 2. Images
 
