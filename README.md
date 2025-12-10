@@ -7,7 +7,7 @@
 
 ### 1. Video
 
-<iframe src="https://drive.google.com/file/d/13_xYOcfeGA3VXRt4HAyZus1sqLD7OBYS/view?usp=drivesdk"
+<iframe src="https://drive.google.com/file/d/13_xYOcfeGA3VXRt4HAyZus1sqLD7OBYS/preview"
         width="800" height="450" allow="autoplay"></iframe>
 
 If the video does not load, click here: [Video Link:](https://drive.google.com/file/d/13_xYOcfeGA3VXRt4HAyZus1sqLD7OBYS/view?usp=drivesdk)
