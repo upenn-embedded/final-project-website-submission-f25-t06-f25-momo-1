@@ -7,21 +7,12 @@
 
 ### 1. Video
 
-<iframe src= “https://drive.google.com/file/d/13_xYOcfeGA3VXRt4HAyZus1sqLD7OBYS/view?usp=drivesdk”
+<iframe src="https://drive.google.com/file/d/13_xYOcfeGA3VXRt4HAyZus1sqLD7OBYS/view?usp=drivesdk"
         width="800" height="450" allow="autoplay"></iframe>
 
-If the video does not load, click here:
-<<<<<<< HEAD
+If the video does not load, click here: [Video Link:](https://drive.google.com/file/d/13_xYOcfeGA3VXRt4HAyZus1sqLD7OBYS/view?usp=drivesdk)
 https://drive.google.com/file/d/13_xYOcfeGA3VXRt4HAyZus1sqLD7OBYS/view?usp=drivesdk
-===================================================================================
 
->>>>>>> 8826b0ee97f8bd2d41fb434e4a2f887010a99ac6
->>>>>>>
->>>>>>
->>>>>
->>>>
->>>
->>
 
 ### 2. Images
 
