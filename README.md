@@ -13,9 +13,15 @@
 If the video does not load, click here:
 <<<<<<< HEAD
 https://drive.google.com/file/d/13_xYOcfeGA3VXRt4HAyZus1sqLD7OBYS/view?usp=drivesdk
-=======
-[https://drive.google.com/file/d/1Qw_lwsKCQLMO9i5y78lkQEAi8CrZNoC1/view?usp=sharing](https://drive.google.com/file/d/1Qw_lwsKCQLMO9i5y78lkQEAi8CrZNoC1/view?usp=sharing)
+===================================================================================
+
 >>>>>>> 8826b0ee97f8bd2d41fb434e4a2f887010a99ac6
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
 
 ### 2. Images
 
